@@ -1,0 +1,16 @@
+id: IFA423651
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:20:24.139369
+last_modified: 2023-02-10 00:20:24.139537
+source_metadata:
+  title: Saṅghabhedavastu
+  language: sa
+bases:
+  '9793':
+    base_file: 9793.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

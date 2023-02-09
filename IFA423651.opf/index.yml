@@ -1,0 +1,11 @@
+id: bbbcf73567384cc9af5cba3113b2b759
+annotation_type: index
+revision: '00001'
+annotations:
+  3fe2c8206120430e937e1cf36ee3a2d4:
+    base: 9793.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 368744
